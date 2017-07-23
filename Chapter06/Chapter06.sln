@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysInfoReflectionStrings", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysInfoReflection", "SysInfoReflection\SysInfoReflection.csproj", "{BC2480A6-76E6-45FB-A4B2-E9EE63E6D5AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExitOnX", "ExitOnX\ExitOnX.csproj", "{EEE8680C-E69C-48A5-B74A-F2AC8970DA8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BC2480A6-76E6-45FB-A4B2-E9EE63E6D5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC2480A6-76E6-45FB-A4B2-E9EE63E6D5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC2480A6-76E6-45FB-A4B2-E9EE63E6D5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE8680C-E69C-48A5-B74A-F2AC8970DA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE8680C-E69C-48A5-B74A-F2AC8970DA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE8680C-E69C-48A5-B74A-F2AC8970DA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE8680C-E69C-48A5-B74A-F2AC8970DA8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
