@@ -5,7 +5,7 @@ using System.Windows.Forms;
 
 namespace TypeAway
 {
-    class TypeAway:Form
+    public class TypeAway:Form
     {
         public static void Main()
         {
